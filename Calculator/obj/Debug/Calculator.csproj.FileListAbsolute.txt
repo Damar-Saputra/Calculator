@@ -1,0 +1,12 @@
+D:\IBD dan PAW\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\IBD dan PAW\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\IBD dan PAW\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\IBD dan PAW\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\IBD dan PAW\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\IBD dan PAW\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\PAVILON GAMING\Documents\Tugas Teknik Informatika\Semester 2\PAW\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\PAVILON GAMING\Documents\Tugas Teknik Informatika\Semester 2\PAW\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\PAVILON GAMING\Documents\Tugas Teknik Informatika\Semester 2\PAW\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\PAVILON GAMING\Documents\Tugas Teknik Informatika\Semester 2\PAW\Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\PAVILON GAMING\Documents\Tugas Teknik Informatika\Semester 2\PAW\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\PAVILON GAMING\Documents\Tugas Teknik Informatika\Semester 2\PAW\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb

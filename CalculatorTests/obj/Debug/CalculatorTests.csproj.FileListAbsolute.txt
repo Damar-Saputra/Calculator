@@ -1,0 +1,32 @@
+D:\IBD dan PAW\Calculator\CalculatorTests\bin\Debug\NUnit3.TestAdapter.dll
+D:\IBD dan PAW\Calculator\CalculatorTests\bin\Debug\NUnit3.TestAdapter.pdb
+D:\IBD dan PAW\Calculator\CalculatorTests\bin\Debug\nunit.engine.dll
+D:\IBD dan PAW\Calculator\CalculatorTests\bin\Debug\nunit.engine.api.dll
+D:\IBD dan PAW\Calculator\CalculatorTests\bin\Debug\CalculatorTests.dll
+D:\IBD dan PAW\Calculator\CalculatorTests\bin\Debug\CalculatorTests.pdb
+D:\IBD dan PAW\Calculator\CalculatorTests\bin\Debug\Calculator.exe
+D:\IBD dan PAW\Calculator\CalculatorTests\bin\Debug\nunit.framework.dll
+D:\IBD dan PAW\Calculator\CalculatorTests\bin\Debug\Calculator.pdb
+D:\IBD dan PAW\Calculator\CalculatorTests\bin\Debug\Calculator.exe.config
+D:\IBD dan PAW\Calculator\CalculatorTests\bin\Debug\nunit.framework.pdb
+D:\IBD dan PAW\Calculator\CalculatorTests\bin\Debug\nunit.framework.xml
+D:\IBD dan PAW\Calculator\CalculatorTests\obj\Debug\CalculatorTests.csprojAssemblyReference.cache
+D:\IBD dan PAW\Calculator\CalculatorTests\obj\Debug\CalculatorTests.csproj.CopyComplete
+D:\IBD dan PAW\Calculator\CalculatorTests\obj\Debug\CalculatorTests.dll
+D:\IBD dan PAW\Calculator\CalculatorTests\obj\Debug\CalculatorTests.pdb
+C:\Users\PAVILON GAMING\Documents\Tugas Teknik Informatika\Semester 2\PAW\Calculator\Calculator\CalculatorTests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\PAVILON GAMING\Documents\Tugas Teknik Informatika\Semester 2\PAW\Calculator\Calculator\CalculatorTests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\PAVILON GAMING\Documents\Tugas Teknik Informatika\Semester 2\PAW\Calculator\Calculator\CalculatorTests\bin\Debug\nunit.engine.dll
+C:\Users\PAVILON GAMING\Documents\Tugas Teknik Informatika\Semester 2\PAW\Calculator\Calculator\CalculatorTests\bin\Debug\nunit.engine.api.dll
+C:\Users\PAVILON GAMING\Documents\Tugas Teknik Informatika\Semester 2\PAW\Calculator\Calculator\CalculatorTests\bin\Debug\CalculatorTests.dll
+C:\Users\PAVILON GAMING\Documents\Tugas Teknik Informatika\Semester 2\PAW\Calculator\Calculator\CalculatorTests\bin\Debug\CalculatorTests.pdb
+C:\Users\PAVILON GAMING\Documents\Tugas Teknik Informatika\Semester 2\PAW\Calculator\Calculator\CalculatorTests\bin\Debug\Calculator.exe
+C:\Users\PAVILON GAMING\Documents\Tugas Teknik Informatika\Semester 2\PAW\Calculator\Calculator\CalculatorTests\bin\Debug\nunit.framework.dll
+C:\Users\PAVILON GAMING\Documents\Tugas Teknik Informatika\Semester 2\PAW\Calculator\Calculator\CalculatorTests\bin\Debug\Calculator.pdb
+C:\Users\PAVILON GAMING\Documents\Tugas Teknik Informatika\Semester 2\PAW\Calculator\Calculator\CalculatorTests\bin\Debug\Calculator.exe.config
+C:\Users\PAVILON GAMING\Documents\Tugas Teknik Informatika\Semester 2\PAW\Calculator\Calculator\CalculatorTests\bin\Debug\nunit.framework.pdb
+C:\Users\PAVILON GAMING\Documents\Tugas Teknik Informatika\Semester 2\PAW\Calculator\Calculator\CalculatorTests\bin\Debug\nunit.framework.xml
+C:\Users\PAVILON GAMING\Documents\Tugas Teknik Informatika\Semester 2\PAW\Calculator\Calculator\CalculatorTests\obj\Debug\CalculatorTests.csprojAssemblyReference.cache
+C:\Users\PAVILON GAMING\Documents\Tugas Teknik Informatika\Semester 2\PAW\Calculator\Calculator\CalculatorTests\obj\Debug\CalculatorTests.csproj.CopyComplete
+C:\Users\PAVILON GAMING\Documents\Tugas Teknik Informatika\Semester 2\PAW\Calculator\Calculator\CalculatorTests\obj\Debug\CalculatorTests.dll
+C:\Users\PAVILON GAMING\Documents\Tugas Teknik Informatika\Semester 2\PAW\Calculator\Calculator\CalculatorTests\obj\Debug\CalculatorTests.pdb
